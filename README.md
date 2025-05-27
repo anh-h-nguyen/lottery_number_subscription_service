@@ -26,9 +26,9 @@ Since lotteries are ongoing events, this website provides consistent updates, en
 
 ## Medium
 The website prototype was built in Power BI Desktop, ensuring:
-- **Interactivity** – Users click buttons to navigate between pages and insights.
-- **Customization** – Users choose specific lotteries to explore.
-- **Engaging visualizations** – Charts and graphs simplify complex data.
+- Interactivity: Users click buttons to navigate between pages and insights.
+- Customization: Users choose specific lotteries to explore.
+- Engaging visualizations: Charts and graphs simplify complex data.
 
 Users begin at the home page, selecting a lottery type (Mega Millions, Pick 10, Powerball).  
 From there, they can:
